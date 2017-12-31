@@ -1,0 +1,40 @@
+body{
+	background-image: url("../images/header.jpg");
+	background-attachment: fixed;
+	background-position: top;
+	background-size: cover;
+	padding: 6em;
+
+}
+.header-title{
+	font-weight: bolder;
+	color: white;
+	 text-shadow: #000 0px 2px 4px;
+
+}
+.terminal{	
+	background-color: rgba(0, 0, 0, 0.85);
+	width: 48.40em;
+	height: 20em;
+	border-radius: .30em;
+	margin: auto;
+	color: #ff0000;
+	overflow: hidden;
+ 	-webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -ms-transition: all 0.5s ease-out;
+ 	-o-transition: all 0.5s ease-out;
+}
+.terminal-color{
+	color: white;
+	margin-left: 1em;
+	font-weight: lighter;
+}
+.header-intro{
+	color: white;
+	 text-shadow: #000 0px 2px 4px;
+
+}
+.links{
+	text-align: center;	
+}
